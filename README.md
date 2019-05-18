@@ -1,2 +1,4 @@
 # War-Card-Game
-war card game written with unorganized code
+code for the war card game
+
+
